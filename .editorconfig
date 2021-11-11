@@ -1,4 +1,10 @@
-[*.{js,jsx,ts,tsx,vue}]
+# 根目录文件
+root = true
+
+[*]
+charset = utf-8
+
+[*.{js,jsx,vue}]
 indent_style = space
 indent_size = 2
 end_of_line = lf
