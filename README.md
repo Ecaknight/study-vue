@@ -53,5 +53,3 @@ prettier 配置： https://marketplace.visualstudio.com/items?itemName=esbenp.pr
 
 遗留问题：prettier 和 eslint 冲突了 建议修改 prettier 配置
 https://zhuanlan.zhihu.com/p/101241781
-
-todo：增加 style 规则
